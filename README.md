@@ -14,6 +14,10 @@ The Horiseon page is currently hosted via my Github Pages, to open the Horiseon 
 
 The Horiseon website is used as a place to list and describe the range of marketing services Horiseon have on offer to customers. 
 
+## Credits
+
+Starter code taken from [coding-boot-camp/urban-octo-telegram](https://github.com/coding-boot-camp/urban-octo-telegram).
+
 ## License
 
 Refer to the license in the repo.
